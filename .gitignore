@@ -38,4 +38,13 @@ game_images/
 *.jpeg
 
 # Logs
+*.log
+
+# Build files
+dist/
+build/
+*.exe
+*.pkg
+
+# Logs
 *.log 
